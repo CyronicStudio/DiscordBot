@@ -11,11 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@discordjs/voice": "^0.17.0",
-    "discord-player": "^4.0.0",
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.7",
-    "ytdl-core": "^4.11.5"
   }
 }
